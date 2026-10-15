@@ -1,0 +1,17 @@
+csv_row_number,dataframe_index,column,rule,error_type,description,value
+17,16,CustomerID,Missing_Values,missing_value,Missing value,<missing>
+74,73,CustomerID,Missing_Values,missing_value,Missing value,<missing>
+189,188,CustomerID,Missing_Values,missing_value,Missing value,<missing>
+303,302,CustomerID,Missing_Values,missing_value,Missing value,<missing>
+422,421,CustomerID,Missing_Values,missing_value,Missing value,<missing>
+40,39,UnitPrice,Missing_Values,missing_value,Missing value,<missing>
+145,144,UnitPrice,Missing_Values,missing_value,Missing value,<missing>
+378,377,UnitPrice,Missing_Values,missing_value,Missing value,<missing>
+92,91,Region,Missing_Values,missing_value,Missing value,<missing>
+268,267,Region,Missing_Values,missing_value,Missing value,<missing>
+57,56,Quantity,Positive_Values,zero_or_negative,Value must be greater than zero,-2
+214,213,UnitPrice,NonNegative_Values,negative_value,Value must be zero or greater,-199.99
+499,498,TransactionID,Unique_Values,duplicate_value,Value is duplicated,T0126
+500,499,TransactionID,Unique_Values,duplicate_value,Value is duplicated,T0025
+470,469,Product,Standardization,leading_or_trailing_whitespace,Leading or trailing whitespace found, laptop 
+403,402,SalesChannel,Standardization,leading_or_trailing_whitespace,Leading or trailing whitespace found,Online 

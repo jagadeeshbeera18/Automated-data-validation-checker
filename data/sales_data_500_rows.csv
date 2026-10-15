@@ -1,0 +1,501 @@
+TransactionID,TransactionDate,CustomerID,Product,Category,Quantity,UnitPrice,SalesAmount,Region,SalesChannel,PaymentMethod
+T0001,2025-05-06,C0058,Phone,Electronics,5,13575.68,67878.4,South,Partner,UPI
+T0002,2025-01-17,C0008,Printer,Electronics,7,7173.47,50214.29,North,Online,Credit Card
+T0003,2025-11-29,C0180,Printer,Electronics,4,20050.47,80201.88,Central,Retail,Credit Card
+T0004,2025-03-23,C0179,Webcam,Accessories,1,6508.76,6508.76,West,Retail,Debit Card
+T0005,2025-02-22,C0024,Tablet,Electronics,6,22535.98,135215.88,West,Online,Debit Card
+T0006,2025-08-24,C0138,Mouse,Accessories,1,1628.2,1628.2,North,Retail,UPI
+T0007,2025-10-23,C0050,Printer,Electronics,6,12329.46,73976.76,North,Online,Credit Card
+T0008,2025-02-21,C0098,Keyboard,Accessories,4,4936.45,19745.8,East,Retail,Debit Card
+T0009,2025-12-10,C0069,Tablet,Electronics,4,27956.33,111825.32,North,Partner,Credit Card
+T0010,2025-08-25,C0098,Printer,Electronics,3,23228.17,69684.51,East,Partner,Cash
+T0011,2025-04-28,C0009,Monitor,Electronics,1,26484.58,26484.58,East,Retail,Debit Card
+T0012,2025-04-19,C0168,Phone,Electronics,6,25291.92,151751.52,West,Retail,Net Banking
+T0013,2025-10-15,C0138,Tablet,Electronics,4,24270.81,97083.24,East,Partner,Cash
+T0014,2025-07-05,C0057,Headphones,Accessories,7,10876.05,76132.35,South,Partner,Net Banking
+T0015,2025-03-20,C0161,Phone,Electronics,2,59614.28,119228.56,South,Partner,Net Banking
+T0016,2025-11-02,C0120,Router,Electronics,7,1695.52,11868.64,Central,Retail,Cash
+T0017,2025-12-16,,Laptop,Electronics,2,75612.75,151225.5,East,Partner,Debit Card
+T0018,2025-08-21,C0001,Phone,Electronics,3,30490.51,91471.53,East,Partner,Credit Card
+T0019,2025-11-24,C0130,Printer,Electronics,5,27815.7,139078.5,Central,Online,Credit Card
+T0020,2025-11-03,C0083,Mouse,Accessories,1,1977.52,1977.52,West,Online,UPI
+T0021,2025-05-03,C0015,Mouse,Accessories,5,2233.19,11165.95,South,Partner,UPI
+T0022,2025-09-30,C0033,Phone,Electronics,2,58110.18,116220.36,South,Partner,Net Banking
+T0023,2025-04-19,C0139,Printer,Electronics,7,9128.17,63897.19,South,Partner,Debit Card
+T0024,2025-08-13,C0133,Headphones,Accessories,6,11946.64,71679.84,West,Online,Credit Card
+T0025,2025-10-29,C0142,Monitor,Electronics,1,9728.7,9728.7,South,Partner,Credit Card
+T0026,2025-04-28,C0018,Laptop,Electronics,1,48194.69,48194.69,North,Retail,UPI
+T0027,2025-04-20,C0139,Printer,Electronics,8,10950.12,87600.96,South,Partner,Cash
+T0028,2025-07-28,C0049,Router,Electronics,8,4886.83,39094.64,North,Online,Net Banking
+T0029,2025-01-28,C0173,Mouse,Accessories,8,1231.87,9854.96,North,Online,Net Banking
+T0030,2025-05-08,C0050,Mouse,Accessories,2,2061.3,4122.6,South,Partner,Net Banking
+T0031,2025-08-25,C0064,Tablet,Electronics,5,29765.86,148829.3,North,Retail,Cash
+T0032,2025-02-17,C0061,Phone,Electronics,1,15187.06,15187.06,South,Retail,Net Banking
+T0033,2025-01-31,C0043,Webcam,Accessories,7,3316.85,23217.95,West,Online,Net Banking
+T0034,2025-05-27,C0109,Keyboard,Accessories,8,4684.03,37472.24,Central,Partner,Net Banking
+T0035,2025-01-30,C0149,Tablet,Electronics,4,21646.43,86585.72,Central,Online,Debit Card
+T0036,2025-09-15,C0136,Laptop,Electronics,8,47256.41,378051.28,South,Online,Cash
+T0037,2025-11-01,C0018,Phone,Electronics,2,65634.58,131269.16,South,Retail,UPI
+T0038,2025-11-14,C0021,Router,Electronics,1,3120.48,3120.48,West,Partner,Cash
+T0039,2025-04-15,C0172,Router,Electronics,5,5277.71,26388.55,East,Online,Debit Card
+T0040,2025-08-23,C0081,Headphones,Accessories,5,,12198.3,North,Online,Net Banking
+T0041,2025-02-07,C0138,Router,Electronics,2,8987.94,17975.88,South,Partner,Debit Card
+T0042,2025-05-06,C0095,Tablet,Electronics,2,47664.08,95328.16,East,Online,Net Banking
+T0043,2025-12-08,C0142,Printer,Electronics,1,22588.5,22588.5,East,Partner,UPI
+T0044,2025-10-11,C0040,Tablet,Electronics,2,24256.31,48512.62,East,Retail,Cash
+T0045,2025-12-18,C0163,Monitor,Electronics,4,27375.53,109502.12,East,Partner,Net Banking
+T0046,2025-02-17,C0163,Keyboard,Accessories,1,4592.95,4592.95,West,Retail,UPI
+T0047,2025-11-23,C0068,Laptop,Electronics,3,60010.04,180030.12,South,Partner,Net Banking
+T0048,2025-02-27,C0020,Printer,Electronics,1,22641.69,22641.69,South,Partner,UPI
+T0049,2025-08-09,C0033,Mouse,Accessories,3,1581.52,4744.56,North,Retail,Debit Card
+T0050,2025-12-16,C0064,Laptop,Electronics,4,85451.61,341806.44,North,Retail,Cash
+T0051,2025-05-02,C0042,Headphones,Accessories,3,11712.21,35136.63,South,Retail,UPI
+T0052,2025-07-30,C0172,Tablet,Electronics,6,40779.76,244678.56,South,Retail,Credit Card
+T0053,2025-08-29,C0057,Phone,Electronics,1,36100.13,36100.13,South,Retail,Debit Card
+T0054,2025-04-25,C0007,Keyboard,Accessories,4,4228.31,16913.24,South,Retail,Debit Card
+T0055,2025-06-29,C0165,Keyboard,Accessories,5,4416.72,22083.6,Central,Retail,Cash
+T0056,2025-05-14,C0046,Mouse,Accessories,2,2366.32,4732.64,Central,Retail,UPI
+T0057,2025-06-10,C0112,Phone,Electronics,-2,49583.99,297503.94,Central,Partner,UPI
+T0058,2025-05-11,C0012,Headphones,Accessories,4,10894.55,43578.2,West,Online,Cash
+T0059,2025-07-06,C0111,Printer,Electronics,4,22171.43,88685.72,North,Partner,Debit Card
+T0060,2025-06-03,C0130,Router,Electronics,2,3648.54,7297.08,East,Partner,Net Banking
+T0061,2025-10-11,C0033,Mouse,Accessories,5,1185.28,5926.4,South,Retail,Net Banking
+T0062,2025-07-27,C0141,Tablet,Electronics,5,36543.02,182715.1,North,Retail,Debit Card
+T0063,2025-08-27,C0114,Monitor,Electronics,6,19606.98,117641.88,West,Partner,Credit Card
+T0064,2025-12-04,C0022,Printer,Electronics,3,16829.65,50488.95,East,Partner,Cash
+T0065,2025-12-11,C0080,Mouse,Accessories,4,505.45,2021.8,South,Online,Credit Card
+T0066,2025-11-09,C0019,Laptop,Electronics,8,47079.62,376636.96,West,Retail,Cash
+T0067,2025-09-11,C0103,Monitor,Electronics,7,27395.34,191767.38,South,Online,UPI
+T0068,2025-04-01,C0179,Phone,Electronics,4,61040.49,244161.96,Central,Retail,UPI
+T0069,2025-08-22,C0035,Printer,Electronics,2,11229.96,22459.92,West,Partner,Cash
+T0070,2025-11-10,C0130,Printer,Electronics,8,19886.31,159090.48,West,Partner,Net Banking
+T0071,2025-08-19,C0067,Tablet,Electronics,8,41027.94,328223.52,South,Partner,Debit Card
+T0072,2025-05-21,C0113,Printer,Electronics,4,17114.93,68459.72,North,Partner,Debit Card
+T0073,2025-10-04,C0021,Monitor,Electronics,6,15336.31,92017.86,South,Online,Credit Card
+T0074,2025-02-02,,Headphones,Accessories,4,8633.45,34533.8,West,Retail,Cash
+T0075,2025-08-04,C0100,Webcam,Accessories,4,5034.08,20136.32,Central,Partner,UPI
+T0076,2025-06-30,C0077,Router,Electronics,1,4166.97,4166.97,West,Retail,Cash
+T0077,2025-09-07,C0057,Printer,Electronics,4,24996.7,99986.8,East,Retail,Net Banking
+T0078,2025-03-26,C0120,Laptop,Electronics,7,62498.57,437489.99,South,Partner,Cash
+T0079,2025-02-12,C0165,Laptop,Electronics,1,85811.8,85811.8,West,Online,Net Banking
+T0080,2025-06-17,C0055,Tablet,Electronics,7,16759.96,117319.72,West,Retail,Debit Card
+T0081,2025-05-10,C0021,Headphones,Accessories,7,4060.82,28425.74,West,Online,Cash
+T0082,2025-04-25,C0167,Laptop,Electronics,6,89995.85,539975.1,North,Partner,UPI
+T0083,2025-01-11,C0160,Laptop,Electronics,4,87732.53,350930.12,South,Online,Credit Card
+T0084,2025-08-27,C0180,Webcam,Accessories,4,7190.4,28761.6,East,Retail,Credit Card
+T0085,2025-03-25,C0080,Router,Electronics,2,5936.53,11873.06,North,Partner,UPI
+T0086,2025-07-23,C0051,Keyboard,Accessories,7,3175.93,22231.51,North,Partner,Credit Card
+T0087,2025-12-17,C0154,Phone,Electronics,5,55923.16,279615.8,North,Partner,UPI
+T0088,2025-02-05,C0130,Mouse,Accessories,6,1472.04,8832.24,East,Online,Net Banking
+T0089,2025-11-22,C0118,Webcam,Accessories,6,2397.08,14382.48,South,Retail,Credit Card
+T0090,2025-11-12,C0138,Printer,Electronics,5,29136.84,145684.2,West,Retail,Net Banking
+T0091,2025-02-14,C0072,Router,Electronics,4,3293.49,13173.96,West,Online,Net Banking
+T0092,2025-06-22,C0008,Router,Electronics,7,5960.59,41724.13,,Retail,Credit Card
+T0093,2025-06-24,C0072,Webcam,Accessories,5,3303.02,16515.1,Central,Partner,Debit Card
+T0094,2025-02-13,C0062,Printer,Electronics,4,5253.78,21015.12,West,Retail,Cash
+T0095,2025-08-18,C0005,Monitor,Electronics,8,26646.45,213171.6,North,Retail,Credit Card
+T0096,2025-12-06,C0149,Headphones,Accessories,5,8609.66,43048.3,East,Retail,Cash
+T0097,2025-06-30,C0180,Printer,Electronics,6,13593.93,81563.58,West,Retail,Debit Card
+T0098,2025-06-11,C0031,Keyboard,Accessories,4,1691.31,6765.24,Central,Partner,Credit Card
+T0099,2025-05-22,C0151,Monitor,Electronics,8,13842.39,110739.12,Central,Partner,Debit Card
+T0100,2025-04-27,C0093,Phone,Electronics,5,64455.59,322277.95,South,Retail,UPI
+T0101,2025-01-28,C0142,Printer,Electronics,1,8164.57,8164.57,East,Partner,Credit Card
+T0102,2025-10-21,C0073,Webcam,Accessories,1,2371.99,2371.99,West,Retail,Net Banking
+T0103,2025-05-10,C0123,Mouse,Accessories,1,705.6,705.6,North,Online,Net Banking
+T0104,2025-03-19,C0039,Webcam,Accessories,1,2129.7,2129.7,Central,Retail,UPI
+T0105,2025-11-07,C0153,Monitor,Electronics,7,11198.19,78387.33,Central,Online,Cash
+T0106,2025-06-02,C0151,Headphones,Accessories,8,5955.66,47645.28,West,Retail,Cash
+T0107,2025-04-17,C0161,Router,Electronics,2,1669.8,3339.6,South,Retail,UPI
+T0108,2025-03-22,C0001,Tablet,Electronics,2,23395.28,46790.56,West,Retail,Cash
+T0109,2025-05-28,C0073,Webcam,Accessories,4,3975.7,15902.8,West,Online,Credit Card
+T0110,2025-08-06,C0030,Keyboard,Accessories,4,4087.66,16350.64,Central,Online,Credit Card
+T0111,2025-01-31,C0043,Keyboard,Accessories,2,4254.51,8509.02,East,Partner,Cash
+T0112,2025-12-19,C0078,Keyboard,Accessories,8,2588.36,20706.88,West,Retail,Cash
+T0113,2025-11-03,C0011,Printer,Electronics,2,17344.88,34689.76,West,Partner,Debit Card
+T0114,2025-04-28,C0173,Router,Electronics,2,3152.87,6305.74,Central,Partner,UPI
+T0115,2025-08-29,C0133,Keyboard,Accessories,3,3177.86,9533.58,West,Retail,Credit Card
+T0116,2025-02-16,C0121,Router,Electronics,8,4599.9,36799.2,East,Retail,Debit Card
+T0117,2025-06-18,C0106,Mouse,Accessories,3,1774.29,5322.87,West,Retail,Net Banking
+T0118,2025-06-11,C0065,Printer,Electronics,2,5917.43,11834.86,East,Online,Net Banking
+T0119,2025-12-03,C0139,Printer,Electronics,1,25623.18,25623.18,West,Retail,UPI
+T0120,2025-11-17,C0114,Monitor,Electronics,8,21997.86,175982.88,North,Online,Debit Card
+T0121,2025-08-13,C0179,Printer,Electronics,5,8275.33,41376.65,West,Online,UPI
+T0122,2025-06-09,C0142,Router,Electronics,3,7434.65,22303.95,North,Partner,Net Banking
+T0123,2025-08-25,C0031,Phone,Electronics,2,26156.14,52312.28,South,Retail,Debit Card
+T0124,2025-09-05,C0121,Printer,Electronics,7,22635.29,158447.03,South,Retail,Cash
+T0125,2025-02-05,C0071,Tablet,Electronics,3,28425.51,85276.53,West,Retail,Cash
+T0126,2025-06-02,C0151,Keyboard,Accessories,5,4228.36,21141.8,Central,Partner,Net Banking
+T0127,2025-06-26,C0086,Tablet,Electronics,8,30629.16,245033.28,Central,Partner,Net Banking
+T0128,2025-12-24,C0062,Webcam,Accessories,4,9429.24,37716.96,Central,Retail,Credit Card
+T0129,2025-12-28,C0098,Headphones,Accessories,8,1480.12,11840.96,West,Partner,Credit Card
+T0130,2025-09-15,C0152,Webcam,Accessories,3,9701.01,29103.03,East,Online,Net Banking
+T0131,2025-01-08,C0037,Phone,Electronics,8,45134.92,361079.36,West,Partner,Credit Card
+T0132,2025-06-23,C0160,Phone,Electronics,5,41577.91,207889.55,West,Partner,UPI
+T0133,2025-06-12,C0161,Mouse,Accessories,7,2175.15,15226.05,West,Partner,UPI
+T0134,2025-04-27,C0024,Router,Electronics,5,1733.68,8668.4,West,Online,UPI
+T0135,2025-01-15,C0012,Webcam,Accessories,5,2914.1,14570.5,East,Online,Debit Card
+T0136,2025-05-06,C0136,Mouse,Accessories,3,1124.65,3373.95,West,Partner,Credit Card
+T0137,2025-11-14,C0175,Tablet,Electronics,7,21127.43,147892.01,South,Retail,Cash
+T0138,2025-08-24,C0066,Tablet,Electronics,5,23126.6,115633.0,North,Retail,Debit Card
+T0139,2025-06-26,C0151,Printer,Electronics,8,8949.39,71595.12,East,Partner,Net Banking
+T0140,2025-04-12,C0099,Keyboard,Accessories,5,2664.39,13321.95,West,Online,Credit Card
+T0141,2025-12-25,C0076,Headphones,Accessories,5,7291.15,36455.75,North,Partner,Net Banking
+T0142,2025-11-07,C0128,Keyboard,Accessories,1,734.82,734.82,East,Online,Cash
+T0143,2025-11-14,C0065,Mouse,Accessories,4,781.81,3127.24,South,Partner,UPI
+T0144,2025-01-18,C0149,Laptop,Electronics,8,58901.98,471215.84,East,Partner,Credit Card
+T0145,2025-08-01,C0045,Phone,Electronics,6,,415839.3,South,Online,Cash
+T0146,2025-03-26,C0066,Mouse,Accessories,5,1467.88,7339.4,West,Retail,Debit Card
+T0147,2025-03-14,C0058,Phone,Electronics,2,41504.88,83009.76,West,Partner,Debit Card
+T0148,2025-05-16,C0138,Phone,Electronics,1,61812.96,61812.96,North,Retail,Debit Card
+T0149,2025-02-25,C0173,Keyboard,Accessories,6,3213.61,19281.66,South,Retail,UPI
+T0150,2025-11-09,C0057,Router,Electronics,6,8097.03,48582.18,North,Partner,Net Banking
+T0151,2025-03-13,C0012,Keyboard,Accessories,2,3491.73,6983.46,North,Retail,Net Banking
+T0152,2025-07-18,C0117,Phone,Electronics,3,18123.1,54369.3,East,Partner,Cash
+T0153,2025-08-01,C0168,Headphones,Accessories,3,7460.74,22382.22,North,Retail,Cash
+T0154,2025-01-17,C0177,Headphones,Accessories,5,11329.58,56647.9,East,Online,Net Banking
+T0155,2025-02-20,C0176,Webcam,Accessories,6,9579.72,57478.32,East,Partner,Debit Card
+T0156,2025-03-04,C0117,Laptop,Electronics,4,62916.28,251665.12,North,Partner,Credit Card
+T0157,2025-06-20,C0063,Router,Electronics,1,8774.53,8774.53,South,Partner,Credit Card
+T0158,2025-10-28,C0056,Phone,Electronics,4,64278.52,257114.08,South,Retail,Credit Card
+T0159,2025-03-08,C0139,Router,Electronics,3,1222.12,3666.36,East,Online,UPI
+T0160,2025-05-02,C0151,Laptop,Electronics,6,50931.15,305586.9,East,Online,Credit Card
+T0161,2025-09-27,C0030,Keyboard,Accessories,7,925.32,6477.24,North,Retail,Net Banking
+T0162,2025-08-20,C0129,Mouse,Accessories,2,1429.12,2858.24,South,Partner,UPI
+T0163,2025-02-01,C0123,Printer,Electronics,1,12540.76,12540.76,West,Retail,UPI
+T0164,2025-02-07,C0021,Webcam,Accessories,8,7555.41,60443.28,East,Partner,Credit Card
+T0165,2025-07-15,C0153,Phone,Electronics,6,19950.07,119700.42,Central,Retail,Net Banking
+T0166,2025-12-26,C0030,Printer,Electronics,2,20135.67,40271.34,Central,Partner,Credit Card
+T0167,2025-07-31,C0087,Headphones,Accessories,4,5967.1,23868.4,West,Retail,Net Banking
+T0168,2025-12-07,C0066,Phone,Electronics,6,31690.55,190143.3,East,Online,Net Banking
+T0169,2025-02-17,C0111,Phone,Electronics,2,17747.16,35494.32,North,Partner,Debit Card
+T0170,2025-12-10,C0032,Tablet,Electronics,6,34472.98,206837.88,West,Retail,Net Banking
+T0171,2025-06-30,C0027,Laptop,Electronics,5,88577.94,442889.7,Central,Partner,Credit Card
+T0172,2025-02-25,C0090,Tablet,Electronics,4,37985.77,151943.08,Central,Retail,UPI
+T0173,2025-10-15,C0160,Keyboard,Accessories,7,3168.63,22180.41,Central,Partner,Cash
+T0174,2025-01-15,C0047,Laptop,Electronics,5,72404.77,362023.85,East,Partner,Debit Card
+T0175,2025-03-15,C0145,Mouse,Accessories,3,1072.25,3216.75,West,Online,Credit Card
+T0176,2025-07-12,C0108,Laptop,Electronics,4,49129.1,196516.4,West,Retail,Credit Card
+T0177,2025-10-18,C0153,Mouse,Accessories,6,985.6,5913.6,North,Online,Credit Card
+T0178,2025-12-12,C0021,Tablet,Electronics,1,41405.26,41405.26,East,Retail,Net Banking
+T0179,2025-05-20,C0056,Webcam,Accessories,7,6660.15,46621.05,Central,Online,Debit Card
+T0180,2025-09-27,C0171,Headphones,Accessories,8,2219.79,17758.32,East,Online,Credit Card
+T0181,2025-01-04,C0053,Headphones,Accessories,1,11828.9,11828.9,East,Online,Credit Card
+T0182,2025-01-04,C0128,Keyboard,Accessories,2,1944.62,3889.24,West,Online,Credit Card
+T0183,2025-09-14,C0144,Headphones,Accessories,4,6858.41,27433.64,East,Online,Net Banking
+T0184,2025-02-09,C0081,Laptop,Electronics,8,64629.88,517039.04,Central,Retail,Cash
+T0185,2025-05-29,C0030,Headphones,Accessories,7,8804.49,61631.43,West,Online,Debit Card
+T0186,2025-12-20,C0093,Tablet,Electronics,8,43046.28,344370.24,North,Retail,UPI
+T0187,2025-09-26,C0021,Monitor,Electronics,7,19763.27,138342.89,West,Retail,Debit Card
+T0188,2025-02-09,C0131,Monitor,Electronics,3,16992.85,50978.55,North,Partner,Cash
+T0189,2025-06-29,,Monitor,Electronics,6,32459.91,194759.46,South,Online,UPI
+T0190,2025-11-05,C0040,Tablet,Electronics,3,23958.89,71876.67,North,Online,Net Banking
+T0191,2025-12-15,C0145,Webcam,Accessories,8,7912.79,63302.32,Central,Retail,Debit Card
+T0192,2025-08-15,C0162,Tablet,Electronics,8,30391.7,243133.6,East,Retail,Cash
+T0193,2025-06-08,C0119,Laptop,Electronics,2,60837.4,121674.8,West,Online,UPI
+T0194,2025-11-27,C0024,Mouse,Accessories,2,2129.73,4259.46,Central,Partner,Cash
+T0195,2025-08-19,C0147,Headphones,Accessories,1,6089.83,6089.83,South,Retail,Cash
+T0196,2025-08-19,C0027,Webcam,Accessories,1,5761.62,5761.62,East,Partner,UPI
+T0197,2025-05-07,C0113,Printer,Electronics,1,21153.18,21153.18,West,Partner,Cash
+T0198,2025-05-25,C0100,Router,Electronics,6,2438.22,14629.32,West,Retail,Cash
+T0199,2025-02-03,C0085,Laptop,Electronics,6,80515.21,483091.26,North,Partner,Net Banking
+T0200,2025-06-20,C0021,Keyboard,Accessories,3,1783.58,5350.74,Central,Partner,Credit Card
+T0201,2025-03-08,C0153,Mouse,Accessories,7,982.51,6877.57,North,Retail,Cash
+T0202,2025-03-07,C0172,Headphones,Accessories,6,8078.43,48470.58,Central,Online,Net Banking
+T0203,2025-06-08,C0047,Printer,Electronics,6,14045.7,84274.2,South,Retail,Net Banking
+T0204,2025-03-21,C0020,Monitor,Electronics,3,14116.66,42349.98,East,Online,Cash
+T0205,2025-12-05,C0087,Printer,Electronics,1,25878.0,25878.0,Central,Online,Cash
+T0206,2025-12-21,C0160,Headphones,Accessories,3,2696.78,8090.34,South,Partner,Net Banking
+T0207,2025-08-16,C0157,Laptop,Electronics,4,63488.64,253954.56,East,Partner,Net Banking
+T0208,2025-08-29,C0050,Monitor,Electronics,5,22418.3,112091.5,East,Partner,Cash
+T0209,2025-07-15,C0129,Webcam,Accessories,5,5424.28,27121.4,Central,Retail,Credit Card
+T0210,2025-05-09,C0014,Monitor,Electronics,3,29634.0,88902.0,West,Retail,Cash
+T0211,2025-05-26,C0022,Phone,Electronics,2,56818.26,113636.52,South,Retail,Net Banking
+T0212,2025-02-16,C0057,Printer,Electronics,7,8683.72,60786.04,West,Retail,UPI
+T0213,2025-05-01,C0099,Headphones,Accessories,6,1585.83,9514.98,North,Retail,Credit Card
+T0214,2026-01-01,C0167,Laptop,Electronics,2,-199.99,118681.64,East,Online,Credit Card
+T0215,2025-12-23,C0036,Laptop,Electronics,8,57909.57,463276.56,West,Retail,Cash
+T0216,2025-05-12,C0056,Laptop,Electronics,1,85763.59,85763.59,South,Partner,Cash
+T0217,2025-05-02,C0078,Printer,Electronics,5,15581.37,77906.85,North,Online,Credit Card
+T0218,2025-02-02,C0029,Headphones,Accessories,8,8028.47,64227.76,West,Partner,Cash
+T0219,2025-03-15,C0075,Laptop,Electronics,4,73437.97,293751.88,West,Online,Cash
+T0220,2025-04-06,C0171,Mouse,Accessories,7,829.24,5804.68,North,Partner,Debit Card
+T0221,2025-07-19,C0121,Phone,Electronics,1,72064.43,72064.43,North,Partner,Net Banking
+T0222,2025-07-02,C0018,Mouse,Accessories,1,858.03,858.03,East,Online,UPI
+T0223,2025-03-10,C0012,Router,Electronics,6,6934.46,41606.76,East,Partner,Debit Card
+T0224,2025-12-23,C0123,Tablet,Electronics,8,44063.43,352507.44,South,Online,UPI
+T0225,2025-01-23,C0052,Webcam,Accessories,4,1814.36,7257.44,North,Retail,Debit Card
+T0226,2025-05-10,C0010,Printer,Electronics,8,14955.6,119644.8,South,Retail,Debit Card
+T0227,2025-05-20,C0032,Laptop,Electronics,6,83960.92,503765.52,East,Retail,Net Banking
+T0228,2025-06-23,C0048,Webcam,Accessories,7,9104.42,63730.94,West,Partner,Net Banking
+T0229,2025-02-12,C0109,Mouse,Accessories,5,2333.48,11667.4,North,Retail,Cash
+T0230,2025-02-22,C0021,Tablet,Electronics,6,34091.6,204549.6,East,Partner,Debit Card
+T0231,2025-03-27,C0177,Keyboard,Accessories,7,2617.44,18322.08,West,Retail,Net Banking
+T0232,2025-11-11,C0112,Laptop,Electronics,6,77706.65,466239.9,East,Partner,UPI
+T0233,2025-07-06,C0132,Phone,Electronics,7,54284.59,379992.13,South,Online,Credit Card
+T0234,2025-01-18,C0033,Router,Electronics,8,6489.09,51912.72,North,Online,Debit Card
+T0235,2025-11-06,C0040,Mouse,Accessories,1,1142.28,1142.28,West,Retail,Debit Card
+T0236,2025-09-29,C0094,Webcam,Accessories,3,7986.22,23958.66,West,Retail,Debit Card
+T0237,2025-04-06,C0128,Monitor,Electronics,1,33934.04,33934.04,Central,Retail,Cash
+T0238,2025-12-27,C0115,Phone,Electronics,5,28491.93,142459.65,South,Partner,Debit Card
+T0239,2025-02-07,C0116,Webcam,Accessories,3,3201.52,9604.56,South,Partner,Net Banking
+T0240,2025-12-08,C0089,Phone,Electronics,6,63062.33,378373.98,North,Partner,Cash
+T0241,2025-12-31,C0180,Keyboard,Accessories,3,4532.73,13598.19,South,Retail,Cash
+T0242,2025-03-13,C0061,Monitor,Electronics,4,11276.79,45107.16,West,Online,Debit Card
+T0243,2025-10-10,C0034,Printer,Electronics,8,19306.94,154455.52,Central,Online,UPI
+T0244,2025-09-27,C0106,Keyboard,Accessories,8,2412.09,19296.72,West,Partner,UPI
+T0245,2025-08-19,C0120,Tablet,Electronics,2,49033.29,98066.58,Central,Retail,Credit Card
+T0246,2025-03-08,C0111,Printer,Electronics,3,20994.85,62984.55,Central,Online,UPI
+T0247,2025-03-24,C0083,Printer,Electronics,3,8825.39,26476.17,South,Retail,Cash
+T0248,2025-04-11,C0163,Keyboard,Accessories,5,4337.51,21687.55,Central,Retail,Credit Card
+T0249,2025-09-15,C0165,Keyboard,Accessories,2,3342.04,6684.08,South,Partner,Cash
+T0250,2025-10-16,C0011,Tablet,Electronics,6,20992.02,125952.12,North,Online,UPI
+T0251,2025-10-20,C0107,Router,Electronics,4,3264.32,13057.28,Central,Partner,UPI
+T0252,2025-11-25,C0078,Webcam,Accessories,5,9056.47,45282.35,West,Online,Net Banking
+T0253,2025-03-22,C0113,Keyboard,Accessories,1,2650.24,2650.24,West,Retail,Net Banking
+T0254,2025-06-10,C0082,Monitor,Electronics,3,17185.2,51555.6,East,Retail,Credit Card
+T0255,2025-06-13,C0062,Mouse,Accessories,2,1432.96,2865.92,West,Online,Debit Card
+T0256,2025-01-26,C0075,Webcam,Accessories,2,3607.31,7214.62,West,Partner,Net Banking
+T0257,2025-06-17,C0148,Monitor,Electronics,3,33992.52,101977.56,East,Online,Credit Card
+T0258,2025-09-13,C0079,Webcam,Accessories,8,9965.74,79725.92,West,Online,UPI
+T0259,2025-04-21,C0150,Headphones,Accessories,4,6559.89,26239.56,East,Online,UPI
+T0260,2025-05-27,C0138,Keyboard,Accessories,8,2828.05,22624.4,North,Online,Net Banking
+T0261,2025-07-26,C0094,Tablet,Electronics,6,45885.95,275315.7,North,Retail,UPI
+T0262,2025-10-11,C0074,Router,Electronics,6,5582.17,33493.02,North,Retail,Cash
+T0263,2025-11-16,C0175,Webcam,Accessories,5,7997.43,39987.15,Central,Online,Credit Card
+T0264,2025-10-13,C0094,Phone,Electronics,6,36815.93,220895.58,South,Online,Cash
+T0265,2025-01-24,C0010,Printer,Electronics,1,15034.68,15034.68,South,Partner,Debit Card
+T0266,2025-11-07,C0132,Webcam,Accessories,3,5914.33,17742.99,South,Retail,Cash
+T0267,2025-10-31,C0087,Mouse,Accessories,5,657.5,3287.5,Central,Partner,Cash
+T0268,2025-09-01,C0005,Webcam,Accessories,5,7524.29,37621.45,,Retail,UPI
+T0269,2025-11-02,C0122,Headphones,Accessories,1,7420.72,7420.72,East,Partner,Cash
+T0270,2025-10-26,C0123,Router,Electronics,1,2974.84,2974.84,South,Partner,Cash
+T0271,2025-01-17,C0147,Headphones,Accessories,4,2625.53,10502.12,North,Online,UPI
+T0272,2025-07-31,C0177,Webcam,Accessories,3,4166.39,12499.17,South,Retail,Cash
+T0273,2025-12-28,C0036,Router,Electronics,1,8380.06,8380.06,Central,Online,Cash
+T0274,2025-09-27,C0097,Mouse,Accessories,8,2495.87,19966.96,East,Online,Net Banking
+T0275,2025-12-13,C0175,Printer,Electronics,6,13558.18,81349.08,East,Partner,Net Banking
+T0276,2025-10-13,C0077,Monitor,Electronics,5,33848.11,169240.55,South,Retail,Debit Card
+T0277,2025-06-12,C0123,Monitor,Electronics,8,26636.48,213091.84,East,Partner,Debit Card
+T0278,2025-07-22,C0089,Keyboard,Accessories,7,1224.06,8568.42,South,Retail,UPI
+T0279,2025-06-27,C0114,Keyboard,Accessories,2,4807.85,9615.7,East,Partner,Net Banking
+T0280,2025-10-15,C0179,Monitor,Electronics,5,13455.84,67279.2,East,Online,UPI
+T0281,2025-05-05,C0013,Router,Electronics,4,6978.95,27915.8,Central,Online,Credit Card
+T0282,2025-08-30,C0026,Laptop,Electronics,6,49508.91,297053.46,South,Online,Cash
+T0283,2025-09-02,C0167,Tablet,Electronics,8,29241.76,233934.08,South,Retail,Debit Card
+T0284,2025-11-30,C0147,Keyboard,Accessories,2,3477.36,6954.72,South,Partner,UPI
+T0285,2025-01-19,C0102,Tablet,Electronics,3,29625.97,88877.91,West,Online,Debit Card
+T0286,2025-06-21,C0073,Laptop,Electronics,2,45417.02,90834.04,West,Partner,Cash
+T0287,2025-09-16,C0120,Printer,Electronics,3,17347.81,52043.43,East,Online,UPI
+T0288,2025-11-28,C0066,Mouse,Accessories,8,657.49,5259.92,South,Online,Debit Card
+T0289,2025-03-31,C0157,Keyboard,Accessories,4,3141.46,12565.84,West,Retail,Cash
+T0290,2025-04-05,C0036,Mouse,Accessories,2,490.82,981.64,West,Retail,Credit Card
+T0291,2025-08-17,C0069,Laptop,Electronics,4,56735.34,226941.36,East,Retail,Cash
+T0292,2025-12-21,C0061,Router,Electronics,6,1289.2,7735.2,North,Partner,UPI
+T0293,2025-12-18,C0129,Webcam,Accessories,7,4107.85,28754.95,East,Partner,UPI
+T0294,2025-04-23,C0035,Keyboard,Accessories,4,2280.44,9121.76,West,Online,Net Banking
+T0295,2025-10-03,C0171,Router,Electronics,8,4114.27,32914.16,South,Online,Cash
+T0296,2025-02-09,C0145,Phone,Electronics,6,45106.92,270641.52,North,Online,Cash
+T0297,2025-03-26,C0084,Printer,Electronics,3,10053.92,30161.76,Central,Retail,UPI
+T0298,2025-02-16,C0131,Monitor,Electronics,8,27356.79,218854.32,West,Online,Net Banking
+T0299,2025-10-16,C0015,Tablet,Electronics,8,32963.67,263709.36,Central,Retail,Debit Card
+T0300,2025-04-22,C0149,Laptop,Electronics,1,62817.69,62817.69,North,Online,Net Banking
+T0301,2025-02-05,C0121,Mouse,Accessories,1,1840.85,1840.85,North,Retail,Net Banking
+T0302,2025-07-11,C0098,Tablet,Electronics,7,41914.02,293398.14,West,Retail,Net Banking
+T0303,2025-12-01,,Phone,Electronics,3,55012.01,165036.03,North,Online,Cash
+T0304,2025-01-02,C0006,Headphones,Accessories,4,6817.27,27269.08,East,Retail,Cash
+T0305,2025-05-07,C0118,Headphones,Accessories,4,6851.27,27405.08,East,Online,Debit Card
+T0306,2025-01-17,C0170,Monitor,Electronics,2,33310.08,66620.16,West,Partner,UPI
+T0307,2025-11-01,C0009,Monitor,Electronics,2,13564.2,27128.4,West,Partner,UPI
+T0308,2025-08-13,C0060,Monitor,Electronics,7,27994.61,195962.27,Central,Online,UPI
+T0309,2025-04-30,C0148,Tablet,Electronics,5,32636.35,163181.75,East,Partner,Cash
+T0310,2025-12-05,C0134,Mouse,Accessories,3,821.19,2463.57,South,Retail,Debit Card
+T0311,2025-11-17,C0174,Keyboard,Accessories,3,962.12,2886.36,West,Partner,Net Banking
+T0312,2025-09-26,C0082,Laptop,Electronics,7,88753.06,621271.42,West,Retail,Credit Card
+T0313,2025-05-04,C0058,Keyboard,Accessories,8,2318.78,18550.24,East,Partner,Credit Card
+T0314,2025-08-02,C0143,Webcam,Accessories,7,9275.3,64927.1,Central,Online,Net Banking
+T0315,2025-11-28,C0021,Monitor,Electronics,6,14884.88,89309.28,West,Retail,UPI
+T0316,2025-01-27,C0069,Printer,Electronics,4,23114.62,92458.48,West,Partner,Cash
+T0317,2025-04-07,C0151,Router,Electronics,2,1508.47,3016.94,Central,Online,Net Banking
+T0318,2025-06-05,C0004,Monitor,Electronics,6,31475.79,188854.74,South,Online,UPI
+T0319,2025-07-23,C0062,Webcam,Accessories,4,9272.75,37091.0,Central,Retail,Debit Card
+T0320,2025-06-07,C0067,Headphones,Accessories,6,6128.76,36772.56,East,Partner,Net Banking
+T0321,2025-06-13,C0053,Webcam,Accessories,8,2338.17,18705.36,East,Retail,Net Banking
+T0322,2025-03-16,C0005,Laptop,Electronics,4,70313.61,281254.44,East,Partner,Cash
+T0323,2025-03-20,C0051,Router,Electronics,5,6816.09,34080.45,East,Online,Net Banking
+T0324,2025-10-09,C0168,Router,Electronics,8,7700.23,61601.84,East,Retail,Net Banking
+T0325,2025-03-28,C0036,Webcam,Accessories,6,5417.05,32502.3,Central,Retail,Credit Card
+T0326,2025-09-26,C0009,Printer,Electronics,1,29758.09,29758.09,North,Partner,UPI
+T0327,2025-02-04,C0039,Laptop,Electronics,4,63557.65,254230.6,North,Online,Cash
+T0328,2025-12-04,C0125,Webcam,Accessories,8,4672.21,37377.68,North,Online,Cash
+T0329,2025-09-29,C0071,Printer,Electronics,1,15283.46,15283.46,Central,Retail,UPI
+T0330,2025-04-02,C0028,Printer,Electronics,7,25328.93,177302.51,North,Partner,Credit Card
+T0331,2025-07-01,C0069,Monitor,Electronics,5,13182.17,65910.85,West,Online,Debit Card
+T0332,2025-12-23,C0058,Headphones,Accessories,4,6048.98,24195.92,East,Partner,UPI
+T0333,2025-07-13,C0142,Laptop,Electronics,7,49207.52,344452.64,West,Online,UPI
+T0334,2025-11-27,C0085,Tablet,Electronics,7,17894.01,125258.07,Central,Online,Cash
+T0335,2025-05-19,C0012,Laptop,Electronics,8,55339.49,442715.92,North,Partner,Debit Card
+T0336,2025-04-02,C0081,Printer,Electronics,1,19087.75,19087.75,North,Online,Cash
+T0337,2025-02-09,C0077,Tablet,Electronics,7,41328.91,289302.37,South,Partner,Credit Card
+T0338,2025-12-13,C0139,Router,Electronics,7,7710.27,53971.89,East,Retail,Credit Card
+T0339,2025-01-28,C0026,Phone,Electronics,6,43549.95,261299.7,West,Online,UPI
+T0340,2025-06-17,C0008,Mouse,Accessories,7,1631.37,11419.59,East,Retail,Net Banking
+T0341,2025-08-10,C0048,Monitor,Electronics,7,17606.9,123248.3,Central,Partner,Net Banking
+T0342,2025-05-07,C0019,Phone,Electronics,5,60646.55,303232.75,North,Retail,Credit Card
+T0343,2025-07-19,C0082,Headphones,Accessories,3,8828.45,26485.35,East,Online,UPI
+T0344,2025-07-04,C0070,Laptop,Electronics,8,87433.21,699465.68,North,Online,UPI
+T0345,not-a-date,C0007,Tablet,Electronics,7,30084.28,210589.96,North,Retail,Cash
+T0346,2025-07-17,C0004,Phone,Electronics,6,49606.25,297637.5,East,Retail,Net Banking
+T0347,2025-10-20,C0134,Phone,Electronics,4,57665.16,230660.64,South,Partner,Net Banking
+T0348,2025-05-18,C0127,Tablet,Electronics,5,19859.4,99297.0,South,Online,Credit Card
+T0349,2025-09-05,C0020,Headphones,Accessories,5,4035.58,20177.9,East,Retail,Credit Card
+T0350,2025-08-23,C0028,Webcam,Accessories,4,6547.35,26189.4,South,Retail,UPI
+T0351,2025-06-18,C0113,Headphones,Accessories,7,4654.39,32580.73,East,Retail,Cash
+T0352,2025-09-03,C0081,Tablet,Electronics,4,25515.23,102060.92,South,Retail,Debit Card
+T0353,2025-10-22,C0063,Keyboard,Accessories,8,3859.96,30879.68,East,Retail,Debit Card
+T0354,2025-10-31,C0140,Headphones,Accessories,4,5015.17,20060.68,South,Partner,Cash
+T0355,2025-12-29,C0054,Laptop,Electronics,8,87885.21,703081.68,West,Retail,UPI
+T0356,2025-11-21,C0078,Headphones,Accessories,3,8402.75,25208.25,South,Retail,Credit Card
+T0357,2025-08-18,C0154,Headphones,Accessories,2,9679.84,19359.68,West,Partner,Net Banking
+T0358,2025-10-06,C0010,Printer,Electronics,7,17665.32,123657.24,East,Partner,Cash
+T0359,2025-02-25,C0064,Router,Electronics,2,6177.81,12355.62,East,Online,Cash
+T0360,2025-06-19,C0111,Laptop,Electronics,7,70344.91,492414.37,North,Online,UPI
+T0361,2025-08-17,C0096,Keyboard,Accessories,4,1654.6,6618.4,West,Retail,Cash
+T0362,2025-09-05,C0027,Printer,Electronics,1,8768.62,8768.62,East,Retail,UPI
+T0363,2025-06-28,C0080,Phone,Electronics,3,64373.02,193119.06,East,Retail,Credit Card
+T0364,2025-02-19,C0113,Printer,Electronics,8,17073.15,136585.2,West,Retail,UPI
+T0365,2025-01-12,C0088,Keyboard,Accessories,2,892.14,1784.28,North,Partner,Credit Card
+T0366,2025-06-19,C0144,Monitor,Electronics,3,21931.84,65795.52,West,Retail,Credit Card
+T0367,2025-11-24,C0169,Headphones,Accessories,3,7927.36,23782.08,West,Retail,UPI
+T0368,2025-10-31,C0110,Router,Electronics,8,8088.16,64705.28,West,Online,Credit Card
+T0369,2025-10-23,C0027,Monitor,Electronics,2,15515.31,31030.62,Central,Online,Debit Card
+T0370,2025-05-15,C0172,Mouse,Accessories,2,733.56,1467.12,West,Partner,Debit Card
+T0371,2025-10-28,C0030,Router,Electronics,7,4231.39,29619.73,East,Retail,Net Banking
+T0372,2025-11-11,C0152,Router,Electronics,5,2545.71,12728.55,North,Partner,Credit Card
+T0373,2025-03-01,C0047,Mouse,Accessories,5,559.3,2796.5,East,Partner,Credit Card
+T0374,2025-10-22,C0099,Printer,Electronics,3,14711.58,44134.74,West,Online,Net Banking
+T0375,2025-10-12,C0043,Printer,Electronics,3,22335.82,67007.46,West,Retail,Credit Card
+T0376,2025-11-14,C0014,Tablet,Electronics,8,26010.3,208082.4,East,Online,Net Banking
+T0377,2025-10-15,C0130,Tablet,Electronics,7,21829.5,152806.5,West,Retail,Net Banking
+T0378,2025-09-08,C0043,Headphones,Accessories,8,,70492.56,North,Partner,UPI
+T0379,2025-04-26,C0138,Monitor,Electronics,5,15886.43,79432.15,East,Online,Net Banking
+T0380,2025-10-09,C0131,Router,Electronics,8,6991.64,55933.12,North,Partner,UPI
+T0381,2025-10-05,C0011,Keyboard,Accessories,6,4032.99,24197.94,West,Partner,Credit Card
+T0382,2025-06-02,C0009,Headphones,Accessories,4,2126.58,8506.32,West,Retail,Debit Card
+T0383,2025-05-02,C0054,Phone,Electronics,2,39661.4,79322.8,Central,Partner,Debit Card
+T0384,2025-11-12,C0036,Router,Electronics,3,6135.61,18406.83,South,Online,UPI
+T0385,2025-11-02,C0138,Router,Electronics,5,3936.36,19681.8,South,Retail,Debit Card
+T0386,2025-03-11,C0106,Keyboard,Accessories,2,3162.76,6325.52,North,Retail,Credit Card
+T0387,2025-05-07,C0174,Tablet,Electronics,6,23738.7,142432.2,West,Retail,Credit Card
+T0388,2025-07-12,C0116,Router,Electronics,7,6132.74,42929.18,North,Partner,UPI
+T0389,2025-12-22,C0095,Headphones,Accessories,5,6671.75,33358.75,West,Retail,Debit Card
+T0390,2025-08-23,C0163,Router,Electronics,2,1219.29,2438.58,East,Online,Cash
+T0391,2025-04-19,C0127,Headphones,Accessories,7,3396.13,23772.91,East,Retail,Debit Card
+T0392,2025-10-17,C0125,Mouse,Accessories,3,1504.08,4512.24,East,Partner,UPI
+T0393,2025-01-09,C0032,Laptop,Electronics,8,49480.86,395846.88,South,Retail,Net Banking
+T0394,2025-04-14,C0177,Laptop,Electronics,7,89632.72,627429.04,South,Partner,Debit Card
+T0395,2025-02-17,C0168,Tablet,Electronics,5,45604.82,228024.1,East,Retail,UPI
+T0396,2025-01-27,C0102,Mouse,Accessories,3,1761.92,5285.76,East,Partner,Credit Card
+T0397,2025-01-01,C0055,Headphones,Accessories,2,8210.34,16420.68,West,Online,Credit Card
+T0398,2025-01-05,C0003,Router,Electronics,8,2964.29,23714.32,East,Online,Net Banking
+T0399,2025-07-16,C0023,Tablet,Electronics,4,31719.51,126878.04,North,Online,Debit Card
+T0400,2025-07-15,C0035,Mouse,Accessories,3,2238.18,6714.54,South,Online,Cash
+T0401,2025-08-14,C0090,Router,Electronics,3,1266.1,3798.3,South,Partner,Credit Card
+T0402,2025-04-22,C0023,Headphones,Accessories,8,7776.84,62214.72,North,Online,UPI
+T0403,2025-08-08,C0081,Router,Electronics,6,6894.07,41364.42,South,Online ,Debit Card
+T0404,2025-12-20,C0007,Phone,Electronics,5,27634.52,138172.6,East,Online,Cash
+T0405,2025-06-01,C0166,Router,Electronics,7,5174.28,36219.96,North,Online,Net Banking
+T0406,2025-11-23,C0153,Headphones,Accessories,8,2240.18,17921.44,North,Partner,UPI
+T0407,2025-07-18,C0146,Mouse,Accessories,3,2354.63,7063.89,West,Retail,Cash
+T0408,2025-01-09,C0151,Tablet,Electronics,2,41695.41,83390.82,North,Online,Debit Card
+T0409,2025-07-23,C0130,Monitor,Electronics,1,9075.33,9075.33,East,Partner,Cash
+T0410,2025-02-12,C0164,Headphones,Accessories,7,5659.33,39615.31,Central,Partner,Cash
+T0411,2025-02-10,C0131,Tablet,Electronics,5,24711.37,123556.85,South,Online,Cash
+T0412,2025-06-08,C0179,Mouse,Accessories,2,1159.61,2319.22,West,Partner,Credit Card
+T0413,2025-03-01,C0117,Laptop,Electronics,7,56001.59,392011.13,Central,Partner,UPI
+T0414,2025-03-03,C0004,Keyboard,Accessories,3,3564.14,10692.42,South,Partner,UPI
+T0415,2025-09-25,C0133,Tablet,Electronics,6,32374.45,194246.7,East,Online,Debit Card
+T0416,2025-03-02,C0008,Tablet,Electronics,5,41242.17,206210.85,East,Retail,Debit Card
+T0417,2025-09-12,C0117,Printer,Electronics,2,6596.8,13193.6,Central,Retail,UPI
+T0418,2025-07-08,C0041,Webcam,Accessories,3,8804.56,26413.68,East,Online,Cash
+T0419,2025-01-23,C0004,Phone,Electronics,1,26389.48,26389.48,South,Online,Net Banking
+T0420,2025-04-02,C0010,Mouse,Accessories,3,1142.55,3427.65,Central,Partner,Net Banking
+T0421,2025-06-13,C0070,Monitor,Electronics,7,16688.65,116820.55,North,Partner,Debit Card
+T0422,2025-04-02,,Phone,Electronics,1,43628.58,43628.58,Central,Online,Net Banking
+T0423,2025-06-09,C0084,Phone,Electronics,5,67250.45,336252.25,North,Partner,Net Banking
+T0424,2025-10-16,C0078,Laptop,Electronics,5,61601.37,308006.85,Central,Online,Net Banking
+T0425,2025-04-11,C0140,Mouse,Accessories,8,1601.72,12813.76,South,Online,UPI
+T0426,2025-11-22,C0178,Headphones,Accessories,6,1263.01,7578.06,North,Retail,UPI
+T0427,2025-02-23,C0053,Headphones,Accessories,5,10339.07,51695.35,Central,Online,Net Banking
+T0428,2025-12-31,C0072,Webcam,Accessories,3,9670.07,29010.21,North,Online,Credit Card
+T0429,2025-08-23,C0022,Printer,Electronics,6,15326.42,91958.52,Central,Online,Cash
+T0430,2025-02-08,C0152,Tablet,Electronics,7,37302.55,261117.85,Central,Online,Net Banking
+T0431,2025-06-11,C0101,Tablet,Electronics,5,23287.01,116435.05,East,Retail,Net Banking
+T0432,2025-03-11,C0150,Keyboard,Accessories,4,1704.53,6818.12,North,Online,UPI
+T0433,2025-07-28,C0031,Tablet,Electronics,6,30734.84,184409.04,Central,Retail,Credit Card
+T0434,2025-03-03,C0024,Webcam,Accessories,5,4120.62,20603.1,South,Partner,Debit Card
+T0435,2025-03-17,C0024,Router,Electronics,6,1514.57,9087.42,South,Retail,Net Banking
+T0436,2025-05-14,C0045,Printer,Electronics,5,6223.77,31118.85,North,Retail,Net Banking
+T0437,2025-02-18,C0119,Printer,Electronics,4,23701.96,94807.84,North,Online,UPI
+T0438,2025-03-08,C0051,Laptop,Electronics,4,47775.11,191100.44,West,Retail,UPI
+T0439,2025-01-12,C0017,Router,Electronics,2,5771.73,11543.46,South,Partner,Net Banking
+T0440,2025-03-04,C0011,Tablet,Electronics,6,18219.25,109315.5,West,Online,Credit Card
+T0441,2025-09-12,C0008,Router,Electronics,7,4578.62,32050.34,West,Partner,Net Banking
+T0442,2025-05-21,C0072,Tablet,Electronics,3,27388.01,82164.03,West,Online,UPI
+T0443,2025-11-28,C0076,Router,Electronics,4,6029.58,24118.32,West,Retail,Cash
+T0444,2025-07-16,C0036,Webcam,Accessories,5,2018.32,10091.6,West,Online,Cash
+T0445,2025-07-15,C0092,Monitor,Electronics,1,25030.37,25030.37,West,Partner,Net Banking
+T0446,2025-07-18,C0070,Mouse,Accessories,6,2307.89,13847.34,South,Online,Debit Card
+T0447,2025-01-30,C0121,Router,Electronics,5,2908.36,14541.8,Central,Retail,Cash
+T0448,2025-05-07,C0169,Monitor,Electronics,2,34297.46,68594.92,South,Retail,Cash
+T0449,2025-10-22,C0100,Laptop,Electronics,4,79382.24,317528.96,East,Online,Credit Card
+T0450,2025-10-30,C0008,Monitor,Electronics,6,23998.03,143988.18,East,Partner,Cash
+T0451,2025-09-10,C0139,Tablet,Electronics,4,34708.81,138835.24,East,Online,Net Banking
+T0452,2025-11-05,C0057,Laptop,Electronics,4,49061.58,196246.32,North,Partner,Net Banking
+T0453,2025-03-08,C0088,Laptop,Electronics,4,59928.03,239712.12,South,Retail,UPI
+T0454,2025-02-26,C0135,Laptop,Electronics,3,51647.04,154941.12,East,Online,Debit Card
+T0455,2025-06-04,C0083,Headphones,Accessories,6,7446.18,44677.08,South,Online,Net Banking
+T0456,2025-12-29,C0144,Webcam,Accessories,3,7018.03,21054.09,Central,Retail,Credit Card
+T0457,2025-06-07,C0177,Router,Electronics,7,7552.74,52869.18,East,Online,Credit Card
+T0458,2025-10-18,C0009,Laptop,Electronics,7,87695.46,613868.22,South,Partner,Debit Card
+T0459,2025-09-12,C0037,Router,Electronics,2,2922.98,5845.96,East,Partner,UPI
+T0460,2025-03-27,C0163,Monitor,Electronics,6,17363.87,104183.22,North,Partner,Debit Card
+T0461,2025-05-08,C0178,Webcam,Accessories,4,1596.86,6387.44,North,Retail,Debit Card
+T0462,2025-07-17,C0113,Phone,Electronics,1,57386.06,57386.06,West,Online,Net Banking
+T0463,2025-10-07,C0097,Webcam,Accessories,6,8995.05,53970.3,North,Retail,Cash
+T0464,2025-01-18,C0076,Monitor,Electronics,2,12391.73,24783.46,North,Retail,Debit Card
+T0465,2025-07-12,C0042,Phone,Electronics,3,16674.63,50023.89,North,Partner,UPI
+T0466,2025-12-27,C0008,Mouse,Accessories,8,1606.87,12854.96,West,Partner,Credit Card
+T0467,2025-01-28,C0026,Router,Electronics,3,8140.08,24420.24,East,Online,Credit Card
+T0468,2025-12-05,C0073,Headphones,Accessories,5,8669.16,43345.8,East,Online,UPI
+T0469,2025-03-20,C0014,Laptop,Electronics,8,62680.6,501444.8,East,Online,Net Banking
+T0470,2025-04-13,C0025, laptop ,Electronics,8,30556.62,244452.96,North,Online,Credit Card
+T0471,2025-03-01,C0079,Keyboard,Accessories,8,4901.35,39210.8,West,Retail,Net Banking
+T0472,2025-04-05,C0095,Keyboard,Accessories,7,1091.89,7643.23,West,Retail,Credit Card
+T0473,2025-08-27,C0068,Webcam,Accessories,8,1879.24,15033.92,South,Retail,Cash
+T0474,2025-02-13,C0172,Laptop,Electronics,2,51800.88,103601.76,East,Partner,Net Banking
+T0475,2025-07-18,C0134,Router,Electronics,1,2974.6,2974.6,West,Partner,Net Banking
+T0476,2025-06-03,C0021,Router,Electronics,8,8076.9,64615.2,West,Partner,UPI
+T0477,2025-03-03,C0115,Printer,Electronics,3,19280.5,57841.5,South,Online,Credit Card
+T0478,2025-02-10,C0175,Monitor,Electronics,7,11407.02,79849.14,West,Online,Credit Card
+T0479,2025-02-14,C0100,Router,Electronics,2,3211.51,6423.02,Central,Retail,Cash
+T0480,2025-01-07,C0180,Mouse,Accessories,8,2184.57,17476.56,Central,Partner,Cash
+T0481,2025-03-17,C0146,Headphones,Accessories,3,2237.71,6713.13,Central,Partner,UPI
+T0482,2025-05-27,C0138,Phone,Electronics,2,47449.08,94898.16,East,Retail,Debit Card
+T0483,2025-01-20,C0045,Headphones,Accessories,8,8202.66,65621.28,East,Retail,Credit Card
+T0484,2025-01-20,C0102,Router,Electronics,7,5947.51,41632.57,East,Partner,Credit Card
+T0485,2025-07-10,C0006,Laptop,Electronics,5,78558.74,392793.7,East,Retail,Debit Card
+T0486,2025-04-27,C0035,Keyboard,Accessories,2,4324.24,8648.48,East,Partner,Net Banking
+T0487,2025-11-06,C0166,Mouse,Accessories,7,892.72,6249.04,North,Online,Net Banking
+T0488,2025-09-06,C0133,Monitor,Electronics,7,32662.69,228638.83,East,Online,Cash
+T0489,2025-03-11,C0135,Tablet,Electronics,7,17296.59,121076.13,Central,Online,Credit Card
+T0490,2025-01-30,C0064,Monitor,Electronics,4,31629.88,126519.52,North,Retail,UPI
+T0491,2025-07-08,C0119,Mouse,Accessories,5,1850.19,9250.95,Central,Retail,UPI
+T0492,2025-11-01,C0115,Laptop,Electronics,8,55887.21,447097.68,South,Retail,Cash
+T0493,2025-05-13,C0177,Printer,Electronics,3,13744.0,41232.0,North,Retail,UPI
+T0494,2025-04-24,C0166,Headphones,Accessories,4,1546.16,6184.64,South,Partner,Credit Card
+T0495,2025-12-16,C0003,Keyboard,Accessories,1,3501.83,3501.83,West,Online,Credit Card
+T0496,2025-05-10,C0156,Router,Electronics,4,7446.75,29787.0,East,Partner,Debit Card
+T0497,2025-08-24,C0065,Headphones,Accessories,6,10850.31,65101.86,South,Retail,Debit Card
+T0498,2025-10-27,C0027,Printer,Electronics,7,25607.77,179254.39,North,Partner,Debit Card
+T0126,2025-06-02,C0151,Keyboard,Accessories,5,4228.36,21141.8,Central,Partner,Net Banking
+T0025,2025-10-29,C0142,Monitor,Electronics,1,9728.7,9728.7,South,Partner,Credit Card
